@@ -1,0 +1,1 @@
+Simulación de envío de mensajes entre microservicios con RabbitMQ
